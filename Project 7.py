@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 17 18:12:08 2023
 
-@author: Admin
+@author: Joseph Balbuena
 """
 def num_to_french(num):
    if num == 0:
